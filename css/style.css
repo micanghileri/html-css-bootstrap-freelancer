@@ -91,14 +91,17 @@ body h4 {
 
 .portfolio {
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
 }
 
 main h4 {
-    color: #2c3e50;
     font-size: 45px;
     font-weight: bolder;
     font-family: 'Montserrat', sans-serif;
+}
+
+.portfolio h4 {
+    color: #2c3e50;
 }
 
 .lineablu {
@@ -151,4 +154,16 @@ main h4 {
 .cardsmall img {
     max-width: 100%;
     border-radius: 10px;
+}
+
+/* stilizzazione about */
+
+.about {
+    background-color: #19BC9C;
+    height: 300px;
+}
+
+.aboutcont {
+    padding-top: 80px;
+    padding-bottom: 60px;
 }
